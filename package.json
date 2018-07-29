@@ -1,0 +1,14 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "class assignment",
+  "main": "main.js",
+  "scripts": {
+    "compile:sass": "node-sass ./main.scss ./main.css "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
